@@ -1,0 +1,17 @@
+{
+  "name": "leren_node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon start app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.22"
+  },
+  "description": ""
+}
